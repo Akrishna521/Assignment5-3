@@ -1,0 +1,7 @@
+C:\DOT NET\Day 4\ConAppAssignmentLoop2\ConAppAssignmentLoop2\bin\Debug\ConAppAssignmentLoop2.exe.config
+C:\DOT NET\Day 4\ConAppAssignmentLoop2\ConAppAssignmentLoop2\bin\Debug\ConAppAssignmentLoop2.exe
+C:\DOT NET\Day 4\ConAppAssignmentLoop2\ConAppAssignmentLoop2\bin\Debug\ConAppAssignmentLoop2.pdb
+C:\DOT NET\Day 4\ConAppAssignmentLoop2\ConAppAssignmentLoop2\obj\Debug\ConAppAssignmentLoop2.csproj.AssemblyReference.cache
+C:\DOT NET\Day 4\ConAppAssignmentLoop2\ConAppAssignmentLoop2\obj\Debug\ConAppAssignmentLoop2.csproj.CoreCompileInputs.cache
+C:\DOT NET\Day 4\ConAppAssignmentLoop2\ConAppAssignmentLoop2\obj\Debug\ConAppAssignmentLoop2.exe
+C:\DOT NET\Day 4\ConAppAssignmentLoop2\ConAppAssignmentLoop2\obj\Debug\ConAppAssignmentLoop2.pdb
